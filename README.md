@@ -38,7 +38,7 @@ scikit-learn
 ## How to Run
 pip install -r requirements.txt
 
-
+## Author
 Name: krishna kishore
 Email:pilagalakrishnakishore@gmail.com
 Linkedin: https://www.linkedin.com/in/pilagala-krishna-kishore-423146355/
